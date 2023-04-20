@@ -6,6 +6,8 @@ public class Main {
 
         System.out.println("Wie gehts dir?");
 
+        System.out.println("Hello world!");
 
+        System.out.println("Wie gehts dir?");
     }
 }
